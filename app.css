@@ -44,7 +44,7 @@ h1 {
   margin: 0 0 16px;
 }
 h3 {
-  font: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 p {
   font: 300 24px/1.5 Helvetica Neue, Helvetica, Arial, sans-serif;
